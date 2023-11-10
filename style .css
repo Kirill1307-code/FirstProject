@@ -1,0 +1,27 @@
+.phototop{
+    width: 100%;
+}
+.phototop img{ 
+    width: 100%;
+}
+main {
+    width: 70%;
+    margin: auto;
+}
+h1 {
+    font-family: "Comfortaa";
+    text-align: center;
+}
+p {
+    font-family: "Lobster";
+}
+.photoline {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.photoline img {
+    width: 32%;
+    border-radius: 10px;
+}
